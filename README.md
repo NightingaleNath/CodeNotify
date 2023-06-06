@@ -385,3 +385,6 @@ class MainActivity : AppCompatActivity() {
 
 }
 ```
+
+[![](https://jitpack.io/v/NkrumahNath/CodeNotify.svg)](https://jitpack.io/#NkrumahNath/CodeNotify)
+
