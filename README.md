@@ -1,6 +1,8 @@
 # CodeNotify
 My custom local notification
 
+[![](https://jitpack.io/v/NkrumahNath/CodeNotify.svg)](https://jitpack.io/#NkrumahNath/CodeNotify)
+
 The CodeNotify library is a third-party Android library that enables you to schedule and display local notifications in your Android application. It provides a convenient way to create and trigger notifications with various customization options. This documentation will guide you through the process of using the CodeNotify library in your project.
 
 Installation
@@ -385,6 +387,4 @@ class MainActivity : AppCompatActivity() {
 
 }
 ```
-
-[![](https://jitpack.io/v/NkrumahNath/CodeNotify.svg)](https://jitpack.io/#NkrumahNath/CodeNotify)
 
